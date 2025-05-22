@@ -1,4 +1,347 @@
 {
+  "21113": {
+    "UpOrangeList": [
+      10000101
+    ],
+    "UpPurpleList": [
+      10000050,
+      10000056,
+      10000083
+    ],
+    "UIGF_pool_type": 301,
+    "start_time": "2025/05/27 18:00",
+    "end_time": "2025/06/17 14:59",
+    "version_number": "5.6",
+    "order_number": 2,
+    "zh-cn": {
+      "banner_name": "巡火猎秘",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/6c41ce910b9b2fc8af3679a319448925_1239699432953303235.png"
+    },
+    "en-us": {
+      "banner_name": "Event Wish Seeker of Flame-Wrought Secrets",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/96ac23127e33e405e6ef5f6eee9d76a6_4346165723023327722.png"
+    },
+    "zh-tw": {
+      "banner_name": "巡火獵秘",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/3aa6c16a35fbf8cd9786b0cc13582f61_8177155254548834387.png"
+    },
+    "ja": {
+      "banner_name": "火を巡る秘の狩り人",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/18294025b400b33b9e12364a1fbca3f1_2170279768223396624.png"
+    },
+    "ko": {
+      "banner_name": "불을 따르는 비밀 사냥꾼",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/5901b2c8d0936fe7b38948e2372e3aed_6592367576756676044.png"
+    },
+    "es": {
+      "banner_name": "Secretos del fuego",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/1ce9b2ae54fa8918eed514467713e4c4_8983930950360902546.png"
+    },
+    "fr": {
+      "banner_name": "Recherche de secrets nés du feu",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d7a5c77e9bee16368650be4609dd060a_2552908539844487489.png"
+    },
+    "ru": {
+      "banner_name": "Искатель огненных тайн",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/26db082b98034ed83a6011ee114dfc1d_8375475775983328529.png"
+    },
+    "th": {
+      "banner_name": "นักล่าปริศนาแห่งเปลวเพลิง",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d83489b20e21dcef8fca7a279c80ed27_6297851399887005939.png"
+    },
+    "vi": {
+      "banner_name": "Đi Săn Trong Lửa",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/3bc5ea0ce6c438a9d25bcc0e43a3d490_1755116942590907189.png"
+    },
+    "de": {
+      "banner_name": "Flammenjäger der Geheimnisse",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/0d7b380e7a32e78fa318d8798f278bb8_1672661971450482280.png"
+    },
+    "id": {
+      "banner_name": "Pengejar Rahasia Dalam Bara Api",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/0a0e4d73d9f49c8d2e4fd009295521f8_5076313373259267864.png"
+    },
+    "pt": {
+      "banner_name": "Caça aos Segredos das Chamas",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/2e74c3df22e02d46289c3be18bc67226_2837557219742231124.png"
+    },
+    "tr": {
+      "banner_name": "Alevli Sırların İzinde Etkinlik Dileği",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/06fc6accc25a9dd3f7f66e0cca25afd2_9204825948761693070.png"
+    },
+    "it": {
+      "banner_name": "Segreti plasmati nel fuoco",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/9fe5353a5cb0a2b095d0394233d37af0_6751720966182554972.png"
+    }
+  },
+  "21114": {
+    "UpOrangeList": [
+      10000052
+    ],
+    "UpPurpleList": [
+      10000050,
+      10000056,
+      10000083
+    ],
+    "UIGF_pool_type": 400,
+    "start_time": "2025/05/27 18:00",
+    "end_time": "2025/06/17 14:59",
+    "version_number": "5.6",
+    "order_number": 2,
+    "zh-cn": {
+      "banner_name": "影寂天下人",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/814a42cec82961243591e619aab4b785_2378943652187334315.png"
+    },
+    "en-us": {
+      "banner_name": "Reign of Serenity",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a750ad8202ac92b3f01fb02ae6da1d1f_9110865902514023838.png"
+    },
+    "zh-tw": {
+      "banner_name": "影寂天下人",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/cf79b4d19416a7450de42403411b2a24_3909411896149416141.png"
+    },
+    "ja": {
+      "banner_name": "影寂の天下人",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a11b9d4163e8693fe7a054977df7666b_5820400384983602835.png"
+    },
+    "ko": {
+      "banner_name": "정토 좇는 천하인",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/3b1ec413ce04fb21a4fcddac8d7551cb_6036244290708523466.png"
+    },
+    "es": {
+      "banner_name": "Reino de la serenidad",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/7f6d5911a7fdebaa539e2411eb357a71_7188986090573867820.png"
+    },
+    "fr": {
+      "banner_name": "Règne de sérénité",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/0d1551602bd683a72a60ddfded1269f4_4520298577804864691.png"
+    },
+    "ru": {
+      "banner_name": "Господство безмятежности",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/aa73502949f3b7d09559f224117f9762_3915599709944614662.png"
+    },
+    "th": {
+      "banner_name": "บัลลังก์แห่งนิรันดร์",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/f73ed03fff023175166fc2bede58f04b_5382352967162498823.png"
+    },
+    "vi": {
+      "banner_name": "Cô Độc Giữa Nhân Gian",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c7155f94180c3f6210645decbbac31d1_2356031306253703216.png"
+    },
+    "de": {
+      "banner_name": "Im Schatten der Welt",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/69b612a03f04dd35151d36d1053d2ce2_468017945411528580.png"
+    },
+    "id": {
+      "banner_name": "Sang Penguasa Tunggal",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a235c76a8859888b8718669b0d67e26b_7282149876334424299.png"
+    },
+    "pt": {
+      "banner_name": "Reino da Serenidade",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d2bb9a8840a0f084dee0e7c9160b45c0_8130288688316825378.png"
+    },
+    "tr": {
+      "banner_name": "Huzur Saltanatı Etkinlik Dileği",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/b2cc9c4fb37f70ded9ec2c9d11e5bc54_7523957847507163191.png"
+    },
+    "it": {
+      "banner_name": "Regno della serenità",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a3114b31c360b21e8e31e51ddaf5630d_6921158371575105199.png"
+    }
+  },
+  "21115": {
+    "UpOrangeList": [
+      12513,
+      13509
+    ],
+    "UpPurpleList": [
+      11405,
+      12401,
+      13401,
+      14409,
+      15402
+    ],
+    "UIGF_pool_type": 302,
+    "start_time": "2025/05/27 18:00",
+    "end_time": "2025/06/17 14:59",
+    "version_number": "5.6",
+    "order_number": 2,
+    "zh-cn": {
+      "banner_name": "神铸赋形",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c87c4ade57711ec466b78c857dba5ecf_6092058254131077827.png"
+    },
+    "en-us": {
+      "banner_name": "Epitome Invocation",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/2103c749372739670e288dab32652154_5688405839012721839.png"
+    },
+    "zh-tw": {
+      "banner_name": "神鑄賦形",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/fe260a90d00fc2532da42d72e5c26329_1815780512642340819.png"
+    },
+    "ja": {
+      "banner_name": "神鋳賦形",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/008295f516867d3ce98622a29b239b16_1397084080615260860.png"
+    },
+    "ko": {
+      "banner_name": "신의 주조",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/9dd961f53b1f52ab1b0f1e3bcc11b4d5_7795438717896029929.png"
+    },
+    "es": {
+      "banner_name": "Encarnación divina",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/0366b49a585afa63864d1f1f9dfab9ba_7207812436607619107.png"
+    },
+    "fr": {
+      "banner_name": "Incarnation divine",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/4da2a450b5bdd78ddff507d8dd909a40_4368864381075750357.png"
+    },
+    "ru": {
+      "banner_name": "Воплощение божества",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/53f1996a7878aec4001cc58fa4066b85_3055082558905349549.png"
+    },
+    "th": {
+      "banner_name": "สรรค์สร้างเซียน",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c30383673fb1649b1671c80c45a1843d_6494333094212297144.png"
+    },
+    "vi": {
+      "banner_name": "Thân Hình Thần Đúc",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c37512caa30093c230b4230d54609430_671072454704146601.png"
+    },
+    "de": {
+      "banner_name": "Göttliches Werk",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/486a47938f0e0a1eaa21fe6c15913be6_4729240548980650265.png"
+    },
+    "id": {
+      "banner_name": "Epitome Invocation",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/cd9fb4e91bcce01949055ec9b99d2588_7135898497728651290.png"
+    },
+    "pt": {
+      "banner_name": "Encarnação Divina",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/672ec223e4ca5a049e1e89123aff0fda_8001406505597098194.png"
+    },
+    "tr": {
+      "banner_name": "İlahi Çağrı",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/90165ad5017d5b70b58819452048c626_1090159426575143892.png"
+    },
+    "it": {
+      "banner_name": "Incarnazione divina",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d2a6f65d654dc115bf1ccb719f28e33c_3397812449851497757.png"
+    }
+  },
+  "21106": {
+    "UpOrangeList": [
+      10000002,
+      10000066,
+      10000049,
+      10000094,
+      10000058,
+      10000057,
+      10000054,
+      10000047,
+      11514,
+      11510,
+      11509,
+      11503,
+      12510,
+      14509,
+      14506,
+      15509
+    ],
+    "UpPurpleList": [
+      10000065,
+      10000061,
+      10000059,
+      10000056,
+      10000055,
+      10000053,
+      10000050,
+      11405,
+      11403,
+      11402,
+      11401,
+      12416,
+      12405,
+      12403,
+      12402,
+      12401,
+      13416,
+      13407,
+      13401,
+      14409,
+      14403,
+      14402,
+      14401,
+      15416,
+      15405,
+      15403,
+      15402,
+      15401
+    ],
+    "UIGF_pool_type": 500,
+    "start_time": "2025/05/27 18:00",
+    "end_time": "2025/06/17 14:59",
+    "version_number": "5.6",
+    "order_number": 2,
+    "zh-cn": {
+      "banner_name": "鸣雷贯天原",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/2a3f0e2c17a8c8d05fffb9e1a4cb7208_5029805462550361538.png"
+    },
+    "en-us": {
+      "banner_name": "Event Wish Thunder Rends the Plains on High",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/f323eeb640473398e7d42b865f11a8d7_8579547214491660805.png"
+    },
+    "zh-tw": {
+      "banner_name": "鳴雷貫天原",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d86550a4566d619243fec27e23d265e9_529276001307292347.png"
+    },
+    "ja": {
+      "banner_name": "天を裂く雷鳴",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/07a3b795c9a4939d6e24e9c7e9f93703_4764633540744806227.png"
+    },
+    "ko": {
+      "banner_name": "하늘을 가르는 뇌명",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/09641d9d18fcabfd2ed82865776caf5d_3786434482066723226.png"
+    },
+    "es": {
+      "banner_name": "Empíreo de las tormentas",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/98c8d28a819a9584fa6c472697905ab0_3904765342681198890.png"
+    },
+    "fr": {
+      "banner_name": "Tonnerre déchirant les hautes plaines",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/95a92a34e37568e13302e4493cbd8458_8848339963943148507.png"
+    },
+    "ru": {
+      "banner_name": "Гром сотрясает неба равнины",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d9e5e5bc1ea15a95e42cdb11a710a9d1_5865586896506927724.png"
+    },
+    "th": {
+      "banner_name": "ฟ้าคำรามก้องนภา",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/9038449830efb6a73149d844e4fd5d7a_4226983455044569940.png"
+    },
+    "vi": {
+      "banner_name": "Sấm Sét Liên Hoàn",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/1f084c411670187fcaa63aac2f66b29d_6496550488103528826.png"
+    },
+    "de": {
+      "banner_name": "Donnerhall durchzieht die Himmel",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c2f7219dd7acc04673da4e096133351e_4999602164157448556.png"
+    },
+    "id": {
+      "banner_name": "Permohonan Gemuruh Guntur di Taman Langit",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/9d577c31e14ade5d8faf20e7c74b1ae8_851812906412969323.png"
+    },
+    "pt": {
+      "banner_name": "Trovão Atravessando o Céu",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/28445545aad6eed93a7fc35a92a0657c_8119648315072787048.png"
+    },
+    "tr": {
+      "banner_name": "Göklerde Yankılanan Yıldırım",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/1a28fabb7fa8f4fb7eca0d615c19357d_1807481584615555173.png"
+    },
+    "it": {
+      "banner_name": "Rombi di tuono sugli altopiani",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a993a1ca7874b9bbbbe3b5574f4356b5_3750278118935903321.png"
+    }
+  },
   "21103": {
     "UpOrangeList": [
       10000112
@@ -225,234 +568,6 @@
     "it": {
       "banner_name": "Incarnazione divina",
       "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/1ff56fea3b0be8322b3c36441314c6d3_7064359948812753953.png"
-    }
-  },
-  "21048": {
-    "UpOrangeList": [
-      10000103
-    ],
-    "UpPurpleList": [
-      10000076,
-      10000024,
-      10000048
-    ],
-    "UIGF_pool_type": 301,
-    "start_time": "2025/04/15 18:00",
-    "end_time": "2025/05/06 14:59",
-    "version_number": "5.5",
-    "order_number": 2,
-    "zh-cn": {
-      "banner_name": "煅火的祝赐",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/91052d7052db09f410fdb3b4e7b00ee5_1628504185012104420.jpg"
-    },
-    "en-us": {
-      "banner_name": "Event Wish Forgefire's Blessing",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/868defa0d72ebf13be738b87fb598127_8561659585436084932.jpg"
-    },
-    "zh-tw": {
-      "banner_name": "煅火的祝賜",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/5bc1f4d020137de147ec02d8b6be916b_2154301227741222757.jpg"
-    },
-    "ja": {
-      "banner_name": "鍛火の祝福",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/575cb0161ebf87f8d921b23a75e19fa3_5568245635092569516.jpg"
-    },
-    "ko": {
-      "banner_name": "불로 벼린 축복",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/fd1995d5b5dcc455be5a08d9277cf3d4_645865880464781758.jpg"
-    },
-    "es": {
-      "banner_name": "Gracia forjallamas",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/fbff3b90d5b5851c433602308dc2b5d5_5130592291247683939.jpg"
-    },
-    "fr": {
-      "banner_name": "Faveur du feu forgé",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/8807c31ee92569e7ca4d80abe6799fb6_7693278370861776800.jpg"
-    },
-    "ru": {
-      "banner_name": "Благословение пламени",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/b2a03f9fbdc468ea16fd0119004d9ed9_1977109800238436400.jpg"
-    },
-    "th": {
-      "banner_name": "เพลิงหลอมประทานพร",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/9048e8fdca01067ccb2a49f756720ee2_5581802491749891937.jpg"
-    },
-    "vi": {
-      "banner_name": "Chúc Phúc Lửa Rèn",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/f89ba304c83cd7a60e1fba8b52ad94d7_7607147925713842337.jpg"
-    },
-    "de": {
-      "banner_name": "Segen des Schmiedefeuers",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/9bc5838da13ca402d2bfe869d4f72617_753059656316370967.jpg"
-    },
-    "id": {
-      "banner_name": "Karunia Api Penempa",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/060004dc1705c471be477073be51e6bd_3046484289131711858.jpg"
-    },
-    "pt": {
-      "banner_name": "Bênção do Fogo da Forja",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/5cfc732f63ed902924e14a99a802b615_2540836763619755909.jpg"
-    },
-    "tr": {
-      "banner_name": "Ocağın Kutsal Ateşi",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/1d5d3af18c984ab7d19fe5e4d7ba9d46_6672407191549512481.jpg"
-    },
-    "it": {
-      "banner_name": "Benedizione delle fiamme",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/b3e653e55f29cce9a1e644396b785235_9138836477981860207.jpg"
-    }
-  },
-  "21049": {
-    "UpOrangeList": [
-      10000022
-    ],
-    "UpPurpleList": [
-      10000076,
-      10000024,
-      10000048
-    ],
-    "UIGF_pool_type": 400,
-    "start_time": "2025/04/15 18:00",
-    "end_time": "2025/05/06 14:59",
-    "version_number": "5.5",
-    "order_number": 2,
-    "zh-cn": {
-      "banner_name": "杯装之诗",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/06fbe801d25d72e5ebfe3147b453d5c0_6888294552686067061.jpg"
-    },
-    "en-us": {
-      "banner_name": "Ballad in Goblets",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/f66a6f5c133c9bd80b87294bc335b3d6_8741773759092542384.jpg"
-    },
-    "zh-tw": {
-      "banner_name": "杯裝之詩",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/8e22d14d278385dfdcbf5ee0d8531f19_6801041647662705491.jpg"
-    },
-    "ja": {
-      "banner_name": "杯に注がれた詩",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/375ccb969ed4ef686f6433369598e360_3820459357968743921.jpg"
-    },
-    "ko": {
-      "banner_name": "잔에 담긴 시",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/fb9f93b6efa8ac5ec39399387f12abef_2697627393290310946.jpg"
-    },
-    "es": {
-      "banner_name": "Oda del cáliz",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/fa60daa0e67cdc537be3a2c43b0417be_4834112182165676251.jpg"
-    },
-    "fr": {
-      "banner_name": "Ballade en pintes",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/a6676f9142b77f0ad470f4550edc000e_7657683502700702855.jpg"
-    },
-    "ru": {
-      "banner_name": "Стихи из винного кубка",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/0aed1525884f91377c360eb0e392d51e_5468749713454445376.jpg"
-    },
-    "th": {
-      "banner_name": "ถ้วยแห่งบทกวี",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/2d95c02c965e133826186e111d87e78b_2368953237210263305.jpg"
-    },
-    "vi": {
-      "banner_name": "Bài Thơ Cốc Thánh",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/0d0844f046c8bb263bc11ff79ba05373_884744230878987849.jpg"
-    },
-    "de": {
-      "banner_name": "Balladen in Bechern",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/f131955239661ec17800b3e6be7bcaae_3792042005058220365.jpg"
-    },
-    "id": {
-      "banner_name": "Syair Dalam Piala",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/2038e932115ccfcd36962b7b128faa67_7666037106803469770.jpg"
-    },
-    "pt": {
-      "banner_name": "Poemas em Taças",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/3ad648534731e03ccc7b4ba2c8a47d87_8716682032152750178.jpg"
-    },
-    "tr": {
-      "banner_name": "Kadehlerdeki Şiir",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/23cddd374239b4baee3e63c01d6e6d37_3471212486014374646.jpg"
-    },
-    "it": {
-      "banner_name": "In alto i calici",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/f7413e11c07cbcf24959a879f851cf96_4361785448679662882.jpg"
-    }
-  },
-  "21050": {
-    "UpOrangeList": [
-      11516,
-      15503
-    ],
-    "UpPurpleList": [
-      11403,
-      12402,
-      13407,
-      14401,
-      15401
-    ],
-    "UIGF_pool_type": 302,
-    "start_time": "2025/04/15 18:00",
-    "end_time": "2025/05/06 14:59",
-    "version_number": "5.5",
-    "order_number": 2,
-    "zh-cn": {
-      "banner_name": "神铸赋形",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/0b568269ad1623d5afa149bb00b03f95_2662259576865916543.jpg"
-    },
-    "en-us": {
-      "banner_name": "Epitome Invocation",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/625b67f8e269adbc4400814ec879f702_3688619599527504594.jpg"
-    },
-    "zh-tw": {
-      "banner_name": "神鑄賦形",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/17b862e053c6a4256ae97fb076408388_8697733625277454783.jpg"
-    },
-    "ja": {
-      "banner_name": "神鋳賦形",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/9950a410e0ea3e37d7631bcf76ad1f22_4128318098586603872.jpg"
-    },
-    "ko": {
-      "banner_name": "신의 주조",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/ff93e24e47eee3481e7166cc8cf9ba37_2490489344105729996.jpg"
-    },
-    "es": {
-      "banner_name": "Encarnación divina",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/5f688504ee30e9819cf4158bdc529e77_283687076506848682.jpg"
-    },
-    "fr": {
-      "banner_name": "Incarnation divine",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/6f59537bc207be7539ddf717f7228847_5979266394775458268.jpg"
-    },
-    "ru": {
-      "banner_name": "Воплощение божества",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/bd9dc6d78a6ca082d5f164ed12179d7f_6267238833050218261.jpg"
-    },
-    "th": {
-      "banner_name": "สรรค์สร้างเซียน",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/635fbe92fba4524950f68e752e9f256c_5108433867692411605.jpg"
-    },
-    "vi": {
-      "banner_name": "Thân Hình Thần Đúc",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/689a26ded6fd9f9be3ed06549cc4dedc_2004792784341074977.jpg"
-    },
-    "de": {
-      "banner_name": "Göttliches Werk",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/97d9b88b5b206ad91adf15f513bb7c1a_4444724793669286986.jpg"
-    },
-    "id": {
-      "banner_name": "Epitome Invocation",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/c0f06995a97d26803c193133631b8058_5275207439232790927.jpg"
-    },
-    "pt": {
-      "banner_name": "Encarnação Divina",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/17f569c0fab9c29cc1bb454da7b56841_2118073966341319660.jpg"
-    },
-    "tr": {
-      "banner_name": "İlahi Çağrı",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/898f1cc3e5c87e3c3b11a6c1dae5dce6_4400137267791108419.jpg"
-    },
-    "it": {
-      "banner_name": "Incarnazione divina",
-      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/03/31/5e8c688f54ef254251d37e19fab4203c_7089254278871113909.jpg"
     }
   }
 }
