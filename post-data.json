@@ -3,186 +3,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "巡火猎秘",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/6c41ce910b9b2fc8af3679a319448925_1239699432953303235.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/6c41ce910b9b2fc8af3679a319448925_1239699432953303235.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "虚星临渡",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/0d6e08e68e7bd278ec9a63a07ea1a35d_3142528491993460741.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/0d6e08e68e7bd278ec9a63a07ea1a35d_3142528491993460741.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "影寂天下人",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/814a42cec82961243591e619aab4b785_2378943652187334315.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/814a42cec82961243591e619aab4b785_2378943652187334315.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "出尘入世",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/1eafc01b1772657aa29974fe793cfbe2_8621345951665143018.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/1eafc01b1772657aa29974fe793cfbe2_8621345951665143018.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "神铸赋形",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c87c4ade57711ec466b78c857dba5ecf_6092058254131077827.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/c87c4ade57711ec466b78c857dba5ecf_6092058254131077827.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "鸣雷贯天原",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/2a3f0e2c17a8c8d05fffb9e1a4cb7208_5029805462550361538.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/2a3f0e2c17a8c8d05fffb9e1a4cb7208_5029805462550361538.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "莓色香颂",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/e3bbe5840f24c4ab0635019da5c71b37_6891739823487935002.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/e3bbe5840f24c4ab0635019da5c71b37_6891739823487935002.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "刺玫的铭誓",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/7ef46e7ae7a8e6fa6e93082b327bf0d5_6139600013638855277.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/7ef46e7ae7a8e6fa6e93082b327bf0d5_6139600013638855277.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "神铸赋形",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/b28047489c758bf229e84e95fd745576_8959763759873585938.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/b28047489c758bf229e84e95fd745576_8959763759873585938.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/e13614a11d1795cc0ddaee36988742b8_5319785289597262829.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/e13614a11d1795cc0ddaee36988742b8_5319785289597262829.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -191,186 +68,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Event Wish Seeker of Flame-Wrought Secrets",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/96ac23127e33e405e6ef5f6eee9d76a6_4346165723023327722.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/96ac23127e33e405e6ef5f6eee9d76a6_4346165723023327722.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Event Wish Void Star's Advent",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/b61898589ca21155522842ff2287e5fb_1484002507532715060.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/b61898589ca21155522842ff2287e5fb_1484002507532715060.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Reign of Serenity",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a750ad8202ac92b3f01fb02ae6da1d1f_9110865902514023838.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/a750ad8202ac92b3f01fb02ae6da1d1f_9110865902514023838.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Event Wish The Transcendent One Returns",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/056721ec48b0ac09669de951a55af197_7191266019279323216.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/056721ec48b0ac09669de951a55af197_7191266019279323216.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "Epitome Invocation",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/2103c749372739670e288dab32652154_5688405839012721839.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/2103c749372739670e288dab32652154_5688405839012721839.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Event Wish Thunder Rends the Plains on High",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/f323eeb640473398e7d42b865f11a8d7_8579547214491660805.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/f323eeb640473398e7d42b865f11a8d7_8579547214491660805.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Event Wish La Chanson Cerise",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/99ed4a2d97a5bad80557f8fa03585ecc_4077315105398769273.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/99ed4a2d97a5bad80557f8fa03585ecc_4077315105398769273.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Event Wish In the Name of the Rosula",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/c79936587a498eadae87aa44e8454e93_5460900096961694092.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/c79936587a498eadae87aa44e8454e93_5460900096961694092.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "Epitome Invocation",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/e3f43a0c59e75204b5e0621ad8121629_353502271720390361.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/e3f43a0c59e75204b5e0621ad8121629_353502271720390361.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/0371b33fcbe1d41616ee095fe2e2039c_2860317205266069623.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/0371b33fcbe1d41616ee095fe2e2039c_2860317205266069623.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -379,186 +133,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "巡火獵秘",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/3aa6c16a35fbf8cd9786b0cc13582f61_8177155254548834387.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/3aa6c16a35fbf8cd9786b0cc13582f61_8177155254548834387.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "虛星臨渡",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/e0a8818b9ab648b21d6260dd93b94ff1_2600275532092100180.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/e0a8818b9ab648b21d6260dd93b94ff1_2600275532092100180.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "影寂天下人",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/cf79b4d19416a7450de42403411b2a24_3909411896149416141.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/cf79b4d19416a7450de42403411b2a24_3909411896149416141.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "出塵入世",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/060586bed7e99eb3c0465275990280d9_6767629470401711271.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/060586bed7e99eb3c0465275990280d9_6767629470401711271.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "神鑄賦形",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/fe260a90d00fc2532da42d72e5c26329_1815780512642340819.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/fe260a90d00fc2532da42d72e5c26329_1815780512642340819.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "鳴雷貫天原",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d86550a4566d619243fec27e23d265e9_529276001307292347.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/d86550a4566d619243fec27e23d265e9_529276001307292347.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "莓色香頌",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/c47b3b9b8450ed692f30e3612111d497_3287617330498568697.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/c47b3b9b8450ed692f30e3612111d497_3287617330498568697.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "刺玫的銘誓",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/b47e198dd51c7c775691f3ba5b4af65d_270679842659274310.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/b47e198dd51c7c775691f3ba5b4af65d_270679842659274310.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "神鑄賦形",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/87363bc218e0cc901fe9451525d50682_5870025161397523349.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/87363bc218e0cc901fe9451525d50682_5870025161397523349.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/bf771fd202c0c31bd229c09be9f56d56_215344648852029080.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/bf771fd202c0c31bd229c09be9f56d56_215344648852029080.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -567,186 +198,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "火を巡る秘の狩り人",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/18294025b400b33b9e12364a1fbca3f1_2170279768223396624.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/18294025b400b33b9e12364a1fbca3f1_2170279768223396624.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "虚星の来臨",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/ad393d80d1c903fdef042769e1c130ac_302626685475057485.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/ad393d80d1c903fdef042769e1c130ac_302626685475057485.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "影寂の天下人",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a11b9d4163e8693fe7a054977df7666b_5820400384983602835.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/a11b9d4163e8693fe7a054977df7666b_5820400384983602835.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "塵世に戻りし一鶴",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/1715442f067ea6ea8795c6ebfb206d1b_4404922670123174274.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/1715442f067ea6ea8795c6ebfb206d1b_4404922670123174274.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "神鋳賦形",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/008295f516867d3ce98622a29b239b16_1397084080615260860.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/008295f516867d3ce98622a29b239b16_1397084080615260860.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "天を裂く雷鳴",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/07a3b795c9a4939d6e24e9c7e9f93703_4764633540744806227.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/07a3b795c9a4939d6e24e9c7e9f93703_4764633540744806227.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "苺色のシャンソン",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/9a44b4ada2f83032346c92d8cbcee7c4_5595706814596100127.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/9a44b4ada2f83032346c92d8cbcee7c4_5595706814596100127.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "棘薔薇の誓い",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/ac4e46ccbb4225347b0fc686da23ae93_8696912205491069690.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/ac4e46ccbb4225347b0fc686da23ae93_8696912205491069690.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "神鋳賦形",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/2f742ed618658eeb5688ab2bb7c502df_5599901880917902763.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/2f742ed618658eeb5688ab2bb7c502df_5599901880917902763.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/023de6bee3911899cae0d3bb2ee6492f_8079995363785138679.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/023de6bee3911899cae0d3bb2ee6492f_8079995363785138679.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -755,186 +263,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "불을 따르는 비밀 사냥꾼",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/5901b2c8d0936fe7b38948e2372e3aed_6592367576756676044.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/5901b2c8d0936fe7b38948e2372e3aed_6592367576756676044.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "도래한 허계의 별",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/32895dfe2e7e9f52411fdd2c1026a544_1482092839435685604.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/32895dfe2e7e9f52411fdd2c1026a544_1482092839435685604.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "정토 좇는 천하인",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/3b1ec413ce04fb21a4fcddac8d7551cb_6036244290708523466.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/3b1ec413ce04fb21a4fcddac8d7551cb_6036244290708523466.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "속세의 귀객",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/cb4aa419a3d728346abf1fa0f5f60ef6_7459839869784281912.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/cb4aa419a3d728346abf1fa0f5f60ef6_7459839869784281912.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "신의 주조",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/9dd961f53b1f52ab1b0f1e3bcc11b4d5_7795438717896029929.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/9dd961f53b1f52ab1b0f1e3bcc11b4d5_7795438717896029929.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "하늘을 가르는 뇌명",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/09641d9d18fcabfd2ed82865776caf5d_3786434482066723226.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/09641d9d18fcabfd2ed82865776caf5d_3786434482066723226.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "베리 샹송",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/40a4f8466c4f2f941cf71bd141ecdbbe_6673008654907969043.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/40a4f8466c4f2f941cf71bd141ecdbbe_6673008654907969043.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "가시 장미의 맹세",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/1888de450ff74f72864bd32b3f982101_468286956599221430.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/1888de450ff74f72864bd32b3f982101_468286956599221430.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "신의 주조",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/59e84448df5bc9985aeece82c9ad41fe_8157959391126675172.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/59e84448df5bc9985aeece82c9ad41fe_8157959391126675172.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/d8db635155f30c60704739e604f214b4_34116441171447738.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/d8db635155f30c60704739e604f214b4_34116441171447738.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -943,186 +328,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Secretos del fuego",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/1ce9b2ae54fa8918eed514467713e4c4_8983930950360902546.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/1ce9b2ae54fa8918eed514467713e4c4_8983930950360902546.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Advenimiento vacuoastral",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/87bf4ad5326fba07b88c246379a34e73_3026461876531551141.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/87bf4ad5326fba07b88c246379a34e73_3026461876531551141.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Reino de la serenidad",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/7f6d5911a7fdebaa539e2411eb357a71_7188986090573867820.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/7f6d5911a7fdebaa539e2411eb357a71_7188986090573867820.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Advenimiento trascendental",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/709310116be33673aa844969eb733a25_6248008562188146117.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/709310116be33673aa844969eb733a25_6248008562188146117.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "Encarnación divina",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/0366b49a585afa63864d1f1f9dfab9ba_7207812436607619107.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/0366b49a585afa63864d1f1f9dfab9ba_7207812436607619107.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Empíreo de las tormentas",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/98c8d28a819a9584fa6c472697905ab0_3904765342681198890.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/98c8d28a819a9584fa6c472697905ab0_3904765342681198890.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Chanson de las bayas",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/6c6f6f55f153d17d05216c6c00e6d9e3_8428925461833650596.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/6c6f6f55f153d17d05216c6c00e6d9e3_8428925461833650596.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Juramento de las rosas",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/8cb5252ecff15eff4ef0272deade0e59_1638696354648729193.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/8cb5252ecff15eff4ef0272deade0e59_1638696354648729193.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "Encarnación divina",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/b1a67501db5c2891ed356144d7060219_1340332415011390888.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/b1a67501db5c2891ed356144d7060219_1340332415011390888.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/cdf53a6a4675e74df7e53b68811020bc_8562981542122003382.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/cdf53a6a4675e74df7e53b68811020bc_8562981542122003382.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -1131,186 +393,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Recherche de secrets nés du feu",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d7a5c77e9bee16368650be4609dd060a_2552908539844487489.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/d7a5c77e9bee16368650be4609dd060a_2552908539844487489.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Avènement de l'étoile du néant ",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/53086245fad885dcc6886579d72b626c_2075160574559996121.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/53086245fad885dcc6886579d72b626c_2075160574559996121.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Règne de sérénité",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/0d1551602bd683a72a60ddfded1269f4_4520298577804864691.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/0d1551602bd683a72a60ddfded1269f4_4520298577804864691.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Retour de la sublimée",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/0a5ae45224389d8195c3f2a0599c2605_210973926841121149.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/0a5ae45224389d8195c3f2a0599c2605_210973926841121149.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "Incarnation divine",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/4da2a450b5bdd78ddff507d8dd909a40_4368864381075750357.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/4da2a450b5bdd78ddff507d8dd909a40_4368864381075750357.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Tonnerre déchirant les hautes plaines",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/95a92a34e37568e13302e4493cbd8458_8848339963943148507.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/95a92a34e37568e13302e4493cbd8458_8848339963943148507.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "La chanson cerise ",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/d5092b44655a566396d64b4c04585bb9_1165711232128537888.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/d5092b44655a566396d64b4c04585bb9_1165711232128537888.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Au nom de la Rosula",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/e7bd3c8d0b07e0866c1b15f4dbb74645_1951776135723946640.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/e7bd3c8d0b07e0866c1b15f4dbb74645_1951776135723946640.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "Incarnation divine",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/a19328349185f3543625a8c18382c3b0_3767805698569889665.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/a19328349185f3543625a8c18382c3b0_3767805698569889665.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/4c63b8ad08a5a1159917dbde4b0d7a83_6356003096681623686.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/4c63b8ad08a5a1159917dbde4b0d7a83_6356003096681623686.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -1319,186 +458,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Искатель огненных тайн",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/26db082b98034ed83a6011ee114dfc1d_8375475775983328529.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/26db082b98034ed83a6011ee114dfc1d_8375475775983328529.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Пришествие Звезды пустоты",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/3537ee0f680fae12a1128e9376dfd6cf_2766897022525201870.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/3537ee0f680fae12a1128e9376dfd6cf_2766897022525201870.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Господство безмятежности",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/aa73502949f3b7d09559f224117f9762_3915599709944614662.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/aa73502949f3b7d09559f224117f9762_3915599709944614662.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Возвращение в мир смертных",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/a4d44f94c48fe03e5f6d67534b59cdd0_8298199087844220312.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/a4d44f94c48fe03e5f6d67534b59cdd0_8298199087844220312.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "Воплощение божества",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/53f1996a7878aec4001cc58fa4066b85_3055082558905349549.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/53f1996a7878aec4001cc58fa4066b85_3055082558905349549.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Гром сотрясает неба равнины",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d9e5e5bc1ea15a95e42cdb11a710a9d1_5865586896506927724.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/d9e5e5bc1ea15a95e42cdb11a710a9d1_5865586896506927724.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Ла шансон сериз",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/b0031610a24054787ce7651fa4369ba3_6302927662558817750.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/b0031610a24054787ce7651fa4369ba3_6302927662558817750.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Во имя розы",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/7b07fedfe87aaade3c13e91563b62b57_7289265324394203683.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/7b07fedfe87aaade3c13e91563b62b57_7289265324394203683.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "Воплощение божества",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/4cbdf5a0d026a230cfb5c3f65e1e94e5_1108053860757866217.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/4cbdf5a0d026a230cfb5c3f65e1e94e5_1108053860757866217.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/df256fde6ce112a43163da5b1ec45abf_6906116056526044439.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/df256fde6ce112a43163da5b1ec45abf_6906116056526044439.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -1507,186 +523,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "นักล่าปริศนาแห่งเปลวเพลิง",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d83489b20e21dcef8fca7a279c80ed27_6297851399887005939.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/d83489b20e21dcef8fca7a279c80ed27_6297851399887005939.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "ดาราลวงข้ามห้วงกาล",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/b67f02d2318309ceecc0412f6a74edd2_1219312772778948695.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/b67f02d2318309ceecc0412f6a74edd2_1219312772778948695.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "บัลลังก์แห่งนิรันดร์",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/f73ed03fff023175166fc2bede58f04b_5382352967162498823.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/f73ed03fff023175166fc2bede58f04b_5382352967162498823.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "จากพันธนาการสู่แดนมนุษย์",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/d4ffbaab922a8d5675c16de76ff82583_6757887506694817951.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/d4ffbaab922a8d5675c16de76ff82583_6757887506694817951.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "สรรค์สร้างเซียน",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c30383673fb1649b1671c80c45a1843d_6494333094212297144.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/c30383673fb1649b1671c80c45a1843d_6494333094212297144.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "ฟ้าคำรามก้องนภา",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/9038449830efb6a73149d844e4fd5d7a_4226983455044569940.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/9038449830efb6a73149d844e4fd5d7a_4226983455044569940.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "เพลงสดุดีสีเชอร์รี",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/5b7a2367634cb69f364961f97494a27d_270358146157066680.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/5b7a2367634cb69f364961f97494a27d_270358146157066680.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "ปฏิญาณแห่งกุหลาบหนาม",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/0dc95002ec8e5fd093f8d3f80c34b695_3016834372146455617.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/0dc95002ec8e5fd093f8d3f80c34b695_3016834372146455617.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "สรรค์สร้างเซียน",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/7adf40c1c5ba6f42e67d012a3168b044_6733982908778828378.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/7adf40c1c5ba6f42e67d012a3168b044_6733982908778828378.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/6979147b7066eac5d33661321c274e3f_147966180746924428.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/6979147b7066eac5d33661321c274e3f_147966180746924428.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -1695,186 +588,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Đi Săn Trong Lửa",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/3bc5ea0ce6c438a9d25bcc0e43a3d490_1755116942590907189.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/3bc5ea0ce6c438a9d25bcc0e43a3d490_1755116942590907189.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Ánh Sao Ngang Qua",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/f094509478cf913bbd172386496f230a_6771598979427339645.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/f094509478cf913bbd172386496f230a_6771598979427339645.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Cô Độc Giữa Nhân Gian",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c7155f94180c3f6210645decbbac31d1_2356031306253703216.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/c7155f94180c3f6210645decbbac31d1_2356031306253703216.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Xuất Trần Nhập Thế",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/a3456854abbcb1c323c2c8dba96e6c5e_3527172388038493356.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/a3456854abbcb1c323c2c8dba96e6c5e_3527172388038493356.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "Thân Hình Thần Đúc",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c37512caa30093c230b4230d54609430_671072454704146601.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/c37512caa30093c230b4230d54609430_671072454704146601.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Sấm Sét Liên Hoàn",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/1f084c411670187fcaa63aac2f66b29d_6496550488103528826.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/1f084c411670187fcaa63aac2f66b29d_6496550488103528826.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "La Chanson Cerise",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/b077977a65ef347a056aeefbbd6775bd_6275789480707993028.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/b077977a65ef347a056aeefbbd6775bd_6275789480707993028.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Nhân Danh Rosula",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/4fee46ee92732da8b63691141787ceae_193572000208767952.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/4fee46ee92732da8b63691141787ceae_193572000208767952.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "Thân Hình Thần Đúc",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/7c0d0495a6d2657d5cc7f78fc0c32129_8433696544390900588.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/7c0d0495a6d2657d5cc7f78fc0c32129_8433696544390900588.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/b21cdac13d432cca78e2d70f1ebe861c_6930502272955355530.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/b21cdac13d432cca78e2d70f1ebe861c_6930502272955355530.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -1883,186 +653,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Flammenjäger der Geheimnisse",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/0d7b380e7a32e78fa318d8798f278bb8_1672661971450482280.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/0d7b380e7a32e78fa318d8798f278bb8_1672661971450482280.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Ankunft des Sterns der Leere",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/ee304f46c8d087055a8fdb315d24ede7_7372190853923259049.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/ee304f46c8d087055a8fdb315d24ede7_7372190853923259049.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Im Schatten der Welt",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/69b612a03f04dd35151d36d1053d2ce2_468017945411528580.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/69b612a03f04dd35151d36d1053d2ce2_468017945411528580.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Rückkehr aus der Abgeschiedenheit",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/a76678030641d214199f01e7f7ccab4f_3559198371104841248.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/a76678030641d214199f01e7f7ccab4f_3559198371104841248.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "Göttliches Werk",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/486a47938f0e0a1eaa21fe6c15913be6_4729240548980650265.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/486a47938f0e0a1eaa21fe6c15913be6_4729240548980650265.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Donnerhall durchzieht die Himmel",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/c2f7219dd7acc04673da4e096133351e_4999602164157448556.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/c2f7219dd7acc04673da4e096133351e_4999602164157448556.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "La Chanson Cerise",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/d1f5ab7a659c7217d5884481452f5885_7507439032897262499.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/d1f5ab7a659c7217d5884481452f5885_7507439032897262499.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Im Namen der Rosula",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/855a4d245162235cf8360a4f82306a8d_6854913803603677105.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/855a4d245162235cf8360a4f82306a8d_6854913803603677105.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "Göttliches Werk",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/311fee916064659a6cfad4bcc2dafaa3_9007704867032751484.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/311fee916064659a6cfad4bcc2dafaa3_9007704867032751484.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/e5fec2e69692de54e3d66da082761136_9055143409386522845.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/e5fec2e69692de54e3d66da082761136_9055143409386522845.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -2071,186 +718,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Pengejar Rahasia Dalam Bara Api",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/0a0e4d73d9f49c8d2e4fd009295521f8_5076313373259267864.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/0a0e4d73d9f49c8d2e4fd009295521f8_5076313373259267864.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Hadirnya Bintang Kehampaan",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/a88d42c335522b3caf2cacea6cf2c1f5_3256351537613499671.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/a88d42c335522b3caf2cacea6cf2c1f5_3256351537613499671.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Sang Penguasa Tunggal",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a235c76a8859888b8718669b0d67e26b_7282149876334424299.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/a235c76a8859888b8718669b0d67e26b_7282149876334424299.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Kembali ke Dunia Fana",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/0651b98d7a1c4e3f698f625fbb67fb19_4314084904984057100.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/0651b98d7a1c4e3f698f625fbb67fb19_4314084904984057100.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "Epitome Invocation",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/cd9fb4e91bcce01949055ec9b99d2588_7135898497728651290.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/cd9fb4e91bcce01949055ec9b99d2588_7135898497728651290.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Permohonan Gemuruh Guntur di Taman Langit",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/9d577c31e14ade5d8faf20e7c74b1ae8_851812906412969323.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/9d577c31e14ade5d8faf20e7c74b1ae8_851812906412969323.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "La Chanson Cerise",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/50ca41e79cfec2ec5fc9beb2dcb264c1_544106005130552774.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/50ca41e79cfec2ec5fc9beb2dcb264c1_544106005130552774.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Ikrar Sekuntum Mawar",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/509fb489339755cb6f55b5b17d25ea31_4605809567888392998.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/509fb489339755cb6f55b5b17d25ea31_4605809567888392998.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "Epitome Invocation",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/9842c339bcf34a0a84d1317619e2304c_1022829931606626679.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/9842c339bcf34a0a84d1317619e2304c_1022829931606626679.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/7c88048335e12819ab09f1bfa333877a_8333278906198339813.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/7c88048335e12819ab09f1bfa333877a_8333278906198339813.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -2259,186 +783,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Caça aos Segredos das Chamas",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/2e74c3df22e02d46289c3be18bc67226_2837557219742231124.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/2e74c3df22e02d46289c3be18bc67226_2837557219742231124.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Estrela Vazia Passageira",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/740617d8cd4f40494505d735a2eab9a7_4835566870032341117.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/740617d8cd4f40494505d735a2eab9a7_4835566870032341117.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Reino da Serenidade",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d2bb9a8840a0f084dee0e7c9160b45c0_8130288688316825378.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/d2bb9a8840a0f084dee0e7c9160b45c0_8130288688316825378.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "A Volta do Transcendente",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/df739e3e72ee694f9bd20a03a5736b00_7811076302294762833.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/df739e3e72ee694f9bd20a03a5736b00_7811076302294762833.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "Encarnação Divina",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/672ec223e4ca5a049e1e89123aff0fda_8001406505597098194.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/672ec223e4ca5a049e1e89123aff0fda_8001406505597098194.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Trovão Atravessando o Céu",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/28445545aad6eed93a7fc35a92a0657c_8119648315072787048.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/28445545aad6eed93a7fc35a92a0657c_8119648315072787048.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Canção do Morango",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/edf74e8b794080afa8702e5b771d8031_2633801166390622563.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/edf74e8b794080afa8702e5b771d8031_2633801166390622563.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Juramento Eterno da Rosa",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/da005199ff3268dfd280d9a32c7f9657_8169274938860094922.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/da005199ff3268dfd280d9a32c7f9657_8169274938860094922.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "Encarnação Divina",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/6ac90eaee64e1a8b5c887196b667fbc7_2480950982837818864.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/6ac90eaee64e1a8b5c887196b667fbc7_2480950982837818864.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/d6c32b761a1305947b526d4984eee8b6_2517813061394029759.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/d6c32b761a1305947b526d4984eee8b6_2517813061394029759.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -2447,186 +848,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Alevli Sırların İzinde Etkinlik Dileği",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/06fc6accc25a9dd3f7f66e0cca25afd2_9204825948761693070.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/06fc6accc25a9dd3f7f66e0cca25afd2_9204825948761693070.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Boşluk Yıldızının Doğuşu",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/ada9efafdfd792f5fad7d89bb3779fba_7019758371890879191.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/ada9efafdfd792f5fad7d89bb3779fba_7019758371890879191.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Huzur Saltanatı Etkinlik Dileği",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/b2cc9c4fb37f70ded9ec2c9d11e5bc54_7523957847507163191.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/b2cc9c4fb37f70ded9ec2c9d11e5bc54_7523957847507163191.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "İnzivadan Dönüş",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/4a439048188ae57d881836a18023af83_4118025039112665638.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/4a439048188ae57d881836a18023af83_4118025039112665638.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "İlahi Çağrı",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/90165ad5017d5b70b58819452048c626_1090159426575143892.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/90165ad5017d5b70b58819452048c626_1090159426575143892.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Göklerde Yankılanan Yıldırım",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/1a28fabb7fa8f4fb7eca0d615c19357d_1807481584615555173.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/1a28fabb7fa8f4fb7eca0d615c19357d_1807481584615555173.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Kirazların Melodisi",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/f994b68354c9f18bdb4289f444cb7e56_6489458225062233072.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/f994b68354c9f18bdb4289f444cb7e56_6489458225062233072.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Rosula Adına",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/8d15cbf6ef6529611291ce1aa9f5c395_8013183382044761864.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/8d15cbf6ef6529611291ce1aa9f5c395_8013183382044761864.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "İlahi Çağrı",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/1bc30ef712347fae6e8bda5d3124e8d6_3833471238193002087.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/1bc30ef712347fae6e8bda5d3124e8d6_3833471238193002087.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/125ad2b44c98dcc8be5f7d39b6f2760d_1867142885954712229.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/125ad2b44c98dcc8be5f7d39b6f2760d_1867142885954712229.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
@@ -2635,186 +913,63 @@
     [
       {
         "UpOrangeList": [
-          10000101
+          10000114
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Segreti plasmati nel fuoco",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/9fe5353a5cb0a2b095d0394233d37af0_6751720966182554972.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/9fe5353a5cb0a2b095d0394233d37af0_6751720966182554972.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Avvento dell'Astro del Vuoto",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/cc44b5c0ee9d04c247b7033f79f0d9c6_1742475604307041853.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/cc44b5c0ee9d04c247b7033f79f0d9c6_1742475604307041853.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 301
       }
     ],
     [
       {
         "UpOrangeList": [
-          10000052
+          10000063
         ],
         "UpPurpleList": [
-          10000050,
-          10000056,
-          10000083
+          10000115,
+          10000072,
+          10000039
         ],
-        "Name": "Regno della serenità",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a3114b31c360b21e8e31e51ddaf5630d_6921158371575105199.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/a3114b31c360b21e8e31e51ddaf5630d_6921158371575105199.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
+        "Name": "Evento trascendentale",
+        "Version": "5.7",
+        "Order": 1,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/1888f16ce52ad4a556505d53ca1f69f4_5764974069144473798.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/1888f16ce52ad4a556505d53ca1f69f4_5764974069144473798.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 400
       }
     ],
     [
       {
         "UpOrangeList": [
-          12513,
-          13509
+          11517,
+          13507
         ],
         "UpPurpleList": [
-          11405,
-          12401,
-          13401,
-          14409,
-          15402
-        ],
-        "Name": "Incarnazione divina",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/d2a6f65d654dc115bf1ccb719f28e33c_3397812449851497757.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/d2a6f65d654dc115bf1ccb719f28e33c_3397812449851497757.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 302
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000002,
-          10000066,
-          10000049,
-          10000094,
-          10000058,
-          10000057,
-          10000054,
-          10000047,
-          11514,
-          11510,
-          11509,
-          11503,
-          12510,
-          14509,
-          14506,
-          15509
-        ],
-        "UpPurpleList": [
-          10000065,
-          10000061,
-          10000059,
-          10000056,
-          10000055,
-          10000053,
-          10000050,
-          11405,
-          11403,
-          11402,
-          11401,
-          12416,
-          12405,
-          12403,
-          12402,
-          12401,
-          13416,
+          11418,
+          12415,
+          14416,
           13407,
-          13401,
-          14409,
-          14403,
-          14402,
-          14401,
-          15416,
-          15405,
-          15403,
-          15402,
-          15401
-        ],
-        "Name": "Rombi di tuono sugli altopiani",
-        "Version": "5.6",
-        "Order": 2,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/05/09/a993a1ca7874b9bbbbe3b5574f4356b5_3750278118935903321.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/05/09/a993a1ca7874b9bbbbe3b5574f4356b5_3750278118935903321.png",
-        "From": "2025-05-27T18:00",
-        "To": "2025-06-17T14:59",
-        "Type": 500
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000112
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "La chanson cerise",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/8009694ac7e6d485b2f2ab64f9e4f9e6_6740827187149720433.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/8009694ac7e6d485b2f2ab64f9e4f9e6_6740827187149720433.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 301
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          10000091
-        ],
-        "UpPurpleList": [
-          10000113,
-          10000105,
-          10000074
-        ],
-        "Name": "Nel nome della Rosula",
-        "Version": "5.6",
-        "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/ee148e91257898b969f98c70f2dff586_7912435000198913896.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/ee148e91257898b969f98c70f2dff586_7912435000198913896.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
-        "Type": 400
-      }
-    ],
-    [
-      {
-        "UpOrangeList": [
-          13514,
-          12512
-        ],
-        "UpPurpleList": [
-          11427,
-          12427,
-          13427,
-          15427,
-          14402
+          15403
         ],
         "Name": "Incarnazione divina",
-        "Version": "5.6",
+        "Version": "5.7",
         "Order": 1,
-        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/04/22/1ff56fea3b0be8322b3c36441314c6d3_7064359948812753953.png",
-        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/04/22/1ff56fea3b0be8322b3c36441314c6d3_7064359948812753953.png",
-        "From": "2025-05-07T06:00",
-        "To": "2025-05-27T17:59",
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/04/83e2a11871c52d56fa99619ddc64de69_36850890790487644.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/04/83e2a11871c52d56fa99619ddc64de69_36850890790487644.jpg",
+        "From": "2025-06-18T06:00",
+        "To": "2025-07-08T17:59",
         "Type": 302
       }
     ]
