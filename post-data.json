@@ -3,6 +3,69 @@
     [
       {
         "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "宿古的赫炎",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/6102bc17474392f7d603218e728150ab_2599741503253699577.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/6102bc17474392f7d603218e728150ab_2599741503253699577.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "凝露轻芳",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/73c6cc5b9d74e52410c1f11c41929f08_4802684515657533491.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/73c6cc5b9d74e52410c1f11c41929f08_4802684515657533491.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "神铸赋形",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/3613eb468e775c22dc35645f4dc4fe10_1877651112119010820.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/3613eb468e775c22dc35645f4dc4fe10_1877651112119010820.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000114
         ],
         "UpPurpleList": [
@@ -65,6 +128,69 @@
     ]
   ],
   "en-us": [
+    [
+      {
+        "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Event Wish Ancient Flame Ablaze",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/5de8594db70d2ee75357159e8eaf3a48_6369404053710062047.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/5de8594db70d2ee75357159e8eaf3a48_6369404053710062047.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Event Wish Ambrosial Essence",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/f0392358930b742536b52f19ab000449_7835193329905978929.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/f0392358930b742536b52f19ab000449_7835193329905978929.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "Epitome Invocation",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/0cb66f624f8c8e9f002b9cc3bac14ed5_5313608444485568904.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/0cb66f624f8c8e9f002b9cc3bac14ed5_5313608444485568904.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -133,6 +259,69 @@
     [
       {
         "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "宿古的赫炎",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/a782f75cb5470ab7f26318f41e031d98_4214130076740112779.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/a782f75cb5470ab7f26318f41e031d98_4214130076740112779.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "凝露輕芳",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/04349d549a38e4d44f1f865dbd2fde3a_2546770292543842801.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/04349d549a38e4d44f1f865dbd2fde3a_2546770292543842801.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "神鑄賦形",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/15ae36f3abb08be917fa21bd94cde31d_5933737570527249045.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/15ae36f3abb08be917fa21bd94cde31d_5933737570527249045.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000114
         ],
         "UpPurpleList": [
@@ -195,6 +384,69 @@
     ]
   ],
   "ja": [
+    [
+      {
+        "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "古に宿る烈炎",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/86b39b2b1719722819947a32c01cd3f1_9023848217449861960.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/86b39b2b1719722819947a32c01cd3f1_9023848217449861960.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "ひとしずくの馨香",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/c40f8b5111ca34d90204be8d47ef31b0_215180011035991149.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/c40f8b5111ca34d90204be8d47ef31b0_215180011035991149.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "神鋳賦形",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/a587c0dea5c816bb369d56de8f1a6ee8_2998383903460210332.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/a587c0dea5c816bb369d56de8f1a6ee8_2998383903460210332.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -263,6 +515,69 @@
     [
       {
         "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "고대의 불꽃",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/a9552fc469aa49651f2177e072eacac4_4816793815564928081.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/a9552fc469aa49651f2177e072eacac4_4816793815564928081.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "향기로운 이슬의 정수",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/e3ad0883b5527ea719eda5c78c915292_4079742614543884217.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/e3ad0883b5527ea719eda5c78c915292_4079742614543884217.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "신의 주조",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/af60c9365b7accfcd931d9f25f29196e_8133364313878300741.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/af60c9365b7accfcd931d9f25f29196e_8133364313878300741.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000114
         ],
         "UpPurpleList": [
@@ -325,6 +640,69 @@
     ]
   ],
   "es": [
+    [
+      {
+        "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Resplandor flamancestral",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/2a882f4f3323f612e6c01240076bea7c_4469601592210500136.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/2a882f4f3323f612e6c01240076bea7c_4469601592210500136.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Fragancia del rocío",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/112eb6255e5f8c737464e123177bf6fe_7443208375560883027.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/112eb6255e5f8c737464e123177bf6fe_7443208375560883027.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "Encarnación divina",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/9a6d3810e9f6feef4541b4008d40a8d5_2066776690083135521.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/9a6d3810e9f6feef4541b4008d40a8d5_2066776690083135521.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -393,6 +771,69 @@
     [
       {
         "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Embrasement du feu ancien",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/aa0a5871674954125206c3e06be2fad4_3553441313395911038.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/aa0a5871674954125206c3e06be2fad4_3553441313395911038.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Essence ambrosiale",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/6b9e61f87454bc3c2e0c8cc6f73f9aa5_7972222492033244954.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/6b9e61f87454bc3c2e0c8cc6f73f9aa5_7972222492033244954.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "Incarnation divine",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/e4924300adcffe2f183057eb9d4f2cec_9118466676724069958.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/e4924300adcffe2f183057eb9d4f2cec_9118466676724069958.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000114
         ],
         "UpPurpleList": [
@@ -455,6 +896,69 @@
     ]
   ],
   "ru": [
+    [
+      {
+        "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Ослепительное пламя древности",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/869ed7f0768f7bb4c29033c991d38d3a_7764096295985269535.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/869ed7f0768f7bb4c29033c991d38d3a_7764096295985269535.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Эссенция амброзии",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/2e5df7dedc947a07e165a934bf355261_3918983681071686314.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/2e5df7dedc947a07e165a934bf355261_3918983681071686314.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "Воплощение божества",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/166f5b2ae815b6744c56b6d40c41e476_2832053365114073433.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/166f5b2ae815b6744c56b6d40c41e476_2832053365114073433.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -523,6 +1027,69 @@
     [
       {
         "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "เพลิงอดีตกาลสีชาด",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/380f7b2dc49980d7509a2903a2fb7702_601868575009379345.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/380f7b2dc49980d7509a2903a2fb7702_601868575009379345.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "อวลกลิ่นหยาดน้ำค้าง",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/200d31fd6282aaacd96770e7f8147a26_8538029260183481027.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/200d31fd6282aaacd96770e7f8147a26_8538029260183481027.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "สรรค์สร้างเซียน",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/765b4235d6f916efa7b955277e398a1e_7820827903256465525.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/765b4235d6f916efa7b955277e398a1e_7820827903256465525.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000114
         ],
         "UpPurpleList": [
@@ -585,6 +1152,69 @@
     ]
   ],
   "vi": [
+    [
+      {
+        "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Nguồn Lửa Cổ Xưa",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/52499786d4eeb1abad4cca0f08deef60_8440035441749862771.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/52499786d4eeb1abad4cca0f08deef60_8440035441749862771.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Làn Hương Phảng Phất",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/e5d554d7484f52d6fa9980239ee07fa5_7730369173758661041.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/e5d554d7484f52d6fa9980239ee07fa5_7730369173758661041.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "Thân Hình Thần Đúc",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/26dcfc8599236a74807b69885bfdaa68_6952952307074809704.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/26dcfc8599236a74807b69885bfdaa68_6952952307074809704.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -653,6 +1283,69 @@
     [
       {
         "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Alte Flamme lodernd hell",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/6c98c93a658d107511b20aed377814f2_8935061506334888622.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/6c98c93a658d107511b20aed377814f2_8935061506334888622.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Ambrosische Essenz",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/605e32d7c3a3ebbe7e113c17e08c6a62_6718784627302537908.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/605e32d7c3a3ebbe7e113c17e08c6a62_6718784627302537908.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "Göttliches Werk",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/eb18bc536672e60faba4924e0f6de95e_3487480395147541847.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/eb18bc536672e60faba4924e0f6de95e_3487480395147541847.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000114
         ],
         "UpPurpleList": [
@@ -715,6 +1408,69 @@
     ]
   ],
   "id": [
+    [
+      {
+        "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Golakan Api Purbakala",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/afc797f845c922f145f11390c898481f_2858373555693866434.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/afc797f845c922f145f11390c898481f_2858373555693866434.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Semerbak Sari Wewangian",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/c37597ce329b65d4e803217fb775e5bd_1599584969854805841.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/c37597ce329b65d4e803217fb775e5bd_1599584969854805841.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "Epitome Invocation",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/654a843e2df628aab382b25ae66ea02c_2683536527948502400.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/654a843e2df628aab382b25ae66ea02c_2683536527948502400.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -783,6 +1539,69 @@
     [
       {
         "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Chama Ancestral",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/7830cafdcd89f43f9e03afa66afe3374_5295352644124366717.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/7830cafdcd89f43f9e03afa66afe3374_5295352644124366717.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Fragrância do Orvalho",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/bb303cc114df0f3eec4abadfa0dc5bc0_7066331842925794810.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/bb303cc114df0f3eec4abadfa0dc5bc0_7066331842925794810.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "Encarnação Divina",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/5291540837d0776f917d1e584204b75d_2538402873909597077.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/5291540837d0776f917d1e584204b75d_2538402873909597077.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000114
         ],
         "UpPurpleList": [
@@ -848,6 +1667,69 @@
     [
       {
         "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Kadim Alevler Yükseliyor Etkinlik Dileği",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/100ba3385c2ad01d463898811ffaec02_8210743272743844742.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/100ba3385c2ad01d463898811ffaec02_8210743272743844742.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Büyüleyici Esans Etkinlik Dileği",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/b6155f0c0927d08f212a6197444349c8_8023699998699028680.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/b6155f0c0927d08f212a6197444349c8_8023699998699028680.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "İlahi Çağrı Etkinlik Dileği",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/2f3e5f63a78695c35a7c72ebf9a81720_5680490122900589041.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/2f3e5f63a78695c35a7c72ebf9a81720_5680490122900589041.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000114
         ],
         "UpPurpleList": [
@@ -910,6 +1792,69 @@
     ]
   ],
   "it": [
+    [
+      {
+        "UpOrangeList": [
+          10000106
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Fiamma ancestrale",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/92a09fb0d68afff1034fd766b3c30fb0_5568605881531348290.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/92a09fb0d68afff1034fd766b3c30fb0_5568605881531348290.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000099
+        ],
+        "UpPurpleList": [
+          10000110,
+          10000077,
+          10000023
+        ],
+        "Name": "Essenza d'ambrosia",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/68fada9781979cbe8943072f5bcfb89a_5384976396507457341.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/07/02/68fada9781979cbe8943072f5bcfb89a_5384976396507457341.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          12514,
+          13513
+        ],
+        "UpPurpleList": [
+          11402,
+          12405,
+          13401,
+          14403,
+          15405
+        ],
+        "Name": "Incarnazione divina",
+        "Version": "5.7",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/8905837416eff00e2be8f426c09bb1f4_445286204636356834.jpg",
+        "Banner2": "https://jihulab.com/DGP-Studio/CurrentBannerWatcher/-/raw/main/upload/ann/2025/06/23/8905837416eff00e2be8f426c09bb1f4_445286204636356834.jpg",
+        "From": "2025-07-08T18:00",
+        "To": "2025-07-29T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [

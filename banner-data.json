@@ -1,4 +1,232 @@
 {
+  "21169": {
+    "UpOrangeList": [
+      10000106
+    ],
+    "UpPurpleList": [
+      10000110,
+      10000077,
+      10000023
+    ],
+    "UIGF_pool_type": 301,
+    "start_time": "2025/07/08 18:00",
+    "end_time": "2025/07/29 14:59",
+    "version_number": "5.7",
+    "order_number": 2,
+    "zh-cn": {
+      "banner_name": "宿古的赫炎",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/6102bc17474392f7d603218e728150ab_2599741503253699577.jpg"
+    },
+    "en-us": {
+      "banner_name": "Event Wish Ancient Flame Ablaze",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/5de8594db70d2ee75357159e8eaf3a48_6369404053710062047.jpg"
+    },
+    "zh-tw": {
+      "banner_name": "宿古的赫炎",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/a782f75cb5470ab7f26318f41e031d98_4214130076740112779.jpg"
+    },
+    "ja": {
+      "banner_name": "古に宿る烈炎",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/86b39b2b1719722819947a32c01cd3f1_9023848217449861960.jpg"
+    },
+    "ko": {
+      "banner_name": "고대의 불꽃",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/a9552fc469aa49651f2177e072eacac4_4816793815564928081.jpg"
+    },
+    "es": {
+      "banner_name": "Resplandor flamancestral",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/2a882f4f3323f612e6c01240076bea7c_4469601592210500136.jpg"
+    },
+    "fr": {
+      "banner_name": "Embrasement du feu ancien",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/aa0a5871674954125206c3e06be2fad4_3553441313395911038.jpg"
+    },
+    "ru": {
+      "banner_name": "Ослепительное пламя древности",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/869ed7f0768f7bb4c29033c991d38d3a_7764096295985269535.jpg"
+    },
+    "th": {
+      "banner_name": "เพลิงอดีตกาลสีชาด",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/380f7b2dc49980d7509a2903a2fb7702_601868575009379345.jpg"
+    },
+    "vi": {
+      "banner_name": "Nguồn Lửa Cổ Xưa",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/52499786d4eeb1abad4cca0f08deef60_8440035441749862771.jpg"
+    },
+    "de": {
+      "banner_name": "Alte Flamme lodernd hell",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/6c98c93a658d107511b20aed377814f2_8935061506334888622.jpg"
+    },
+    "id": {
+      "banner_name": "Golakan Api Purbakala",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/afc797f845c922f145f11390c898481f_2858373555693866434.jpg"
+    },
+    "pt": {
+      "banner_name": "Chama Ancestral",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/7830cafdcd89f43f9e03afa66afe3374_5295352644124366717.jpg"
+    },
+    "tr": {
+      "banner_name": "Kadim Alevler Yükseliyor Etkinlik Dileği",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/100ba3385c2ad01d463898811ffaec02_8210743272743844742.jpg"
+    },
+    "it": {
+      "banner_name": "Fiamma ancestrale",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/92a09fb0d68afff1034fd766b3c30fb0_5568605881531348290.jpg"
+    }
+  },
+  "21170": {
+    "UpOrangeList": [
+      10000099
+    ],
+    "UpPurpleList": [
+      10000110,
+      10000077,
+      10000023
+    ],
+    "UIGF_pool_type": 400,
+    "start_time": "2025/07/08 18:00",
+    "end_time": "2025/07/29 14:59",
+    "version_number": "5.7",
+    "order_number": 2,
+    "zh-cn": {
+      "banner_name": "凝露轻芳",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/73c6cc5b9d74e52410c1f11c41929f08_4802684515657533491.jpg"
+    },
+    "en-us": {
+      "banner_name": "Event Wish Ambrosial Essence",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/f0392358930b742536b52f19ab000449_7835193329905978929.jpg"
+    },
+    "zh-tw": {
+      "banner_name": "凝露輕芳",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/04349d549a38e4d44f1f865dbd2fde3a_2546770292543842801.jpg"
+    },
+    "ja": {
+      "banner_name": "ひとしずくの馨香",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/c40f8b5111ca34d90204be8d47ef31b0_215180011035991149.jpg"
+    },
+    "ko": {
+      "banner_name": "향기로운 이슬의 정수",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/e3ad0883b5527ea719eda5c78c915292_4079742614543884217.jpg"
+    },
+    "es": {
+      "banner_name": "Fragancia del rocío",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/112eb6255e5f8c737464e123177bf6fe_7443208375560883027.jpg"
+    },
+    "fr": {
+      "banner_name": "Essence ambrosiale",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/6b9e61f87454bc3c2e0c8cc6f73f9aa5_7972222492033244954.jpg"
+    },
+    "ru": {
+      "banner_name": "Эссенция амброзии",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/2e5df7dedc947a07e165a934bf355261_3918983681071686314.jpg"
+    },
+    "th": {
+      "banner_name": "อวลกลิ่นหยาดน้ำค้าง",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/200d31fd6282aaacd96770e7f8147a26_8538029260183481027.jpg"
+    },
+    "vi": {
+      "banner_name": "Làn Hương Phảng Phất",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/e5d554d7484f52d6fa9980239ee07fa5_7730369173758661041.jpg"
+    },
+    "de": {
+      "banner_name": "Ambrosische Essenz",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/605e32d7c3a3ebbe7e113c17e08c6a62_6718784627302537908.jpg"
+    },
+    "id": {
+      "banner_name": "Semerbak Sari Wewangian",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/c37597ce329b65d4e803217fb775e5bd_1599584969854805841.jpg"
+    },
+    "pt": {
+      "banner_name": "Fragrância do Orvalho",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/bb303cc114df0f3eec4abadfa0dc5bc0_7066331842925794810.jpg"
+    },
+    "tr": {
+      "banner_name": "Büyüleyici Esans Etkinlik Dileği",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/b6155f0c0927d08f212a6197444349c8_8023699998699028680.jpg"
+    },
+    "it": {
+      "banner_name": "Essenza d'ambrosia",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/07/02/68fada9781979cbe8943072f5bcfb89a_5384976396507457341.jpg"
+    }
+  },
+  "21171": {
+    "UpOrangeList": [
+      12514,
+      13513
+    ],
+    "UpPurpleList": [
+      11402,
+      12405,
+      13401,
+      14403,
+      15405
+    ],
+    "UIGF_pool_type": 302,
+    "start_time": "2025/07/08 18:00",
+    "end_time": "2025/07/29 14:59",
+    "version_number": "5.7",
+    "order_number": 2,
+    "zh-cn": {
+      "banner_name": "神铸赋形",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/3613eb468e775c22dc35645f4dc4fe10_1877651112119010820.jpg"
+    },
+    "en-us": {
+      "banner_name": "Epitome Invocation",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/0cb66f624f8c8e9f002b9cc3bac14ed5_5313608444485568904.jpg"
+    },
+    "zh-tw": {
+      "banner_name": "神鑄賦形",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/15ae36f3abb08be917fa21bd94cde31d_5933737570527249045.jpg"
+    },
+    "ja": {
+      "banner_name": "神鋳賦形",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/a587c0dea5c816bb369d56de8f1a6ee8_2998383903460210332.jpg"
+    },
+    "ko": {
+      "banner_name": "신의 주조",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/af60c9365b7accfcd931d9f25f29196e_8133364313878300741.jpg"
+    },
+    "es": {
+      "banner_name": "Encarnación divina",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/9a6d3810e9f6feef4541b4008d40a8d5_2066776690083135521.jpg"
+    },
+    "fr": {
+      "banner_name": "Incarnation divine",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/e4924300adcffe2f183057eb9d4f2cec_9118466676724069958.jpg"
+    },
+    "ru": {
+      "banner_name": "Воплощение божества",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/166f5b2ae815b6744c56b6d40c41e476_2832053365114073433.jpg"
+    },
+    "th": {
+      "banner_name": "สรรค์สร้างเซียน",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/765b4235d6f916efa7b955277e398a1e_7820827903256465525.jpg"
+    },
+    "vi": {
+      "banner_name": "Thân Hình Thần Đúc",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/26dcfc8599236a74807b69885bfdaa68_6952952307074809704.jpg"
+    },
+    "de": {
+      "banner_name": "Göttliches Werk",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/eb18bc536672e60faba4924e0f6de95e_3487480395147541847.jpg"
+    },
+    "id": {
+      "banner_name": "Epitome Invocation",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/654a843e2df628aab382b25ae66ea02c_2683536527948502400.jpg"
+    },
+    "pt": {
+      "banner_name": "Encarnação Divina",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/5291540837d0776f917d1e584204b75d_2538402873909597077.jpg"
+    },
+    "tr": {
+      "banner_name": "İlahi Çağrı Etkinlik Dileği",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/2f3e5f63a78695c35a7c72ebf9a81720_5680490122900589041.jpg"
+    },
+    "it": {
+      "banner_name": "Incarnazione divina",
+      "banner_image": "https://sdk.hoyoverse.com/upload/ann/2025/06/23/8905837416eff00e2be8f426c09bb1f4_445286204636356834.jpg"
+    }
+  },
   "21159": {
     "UpOrangeList": [
       10000114
