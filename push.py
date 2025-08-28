@@ -81,7 +81,7 @@ def create_banner(mode: str = "production"):
             this_post["Version"] = this_post.pop("version_number")
             this_post["Order"] = this_post.pop("order_number")
             this_post["Banner"] = this_post.pop("banner_image")
-            this_post["Banner2"] = this_post["Banner"].replace("sdk.hoyoverse.com", "jihulab.com/DGP-Studio"
+            this_post["Banner2"] = this_post["Banner"].replace("sdk.hoyoverse.com", "cnb.cool/DGP-Studio"
                                                                                     "/CurrentBannerWatcher/-/raw/main")
             this_post["From"] = this_post.pop("start_time").replace("/", "-").replace(" ", "T")
             this_post["To"] = this_post.pop("end_time").replace("/", "-").replace(" ", "T")
