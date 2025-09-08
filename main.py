@@ -328,6 +328,41 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
     return banner_meta_list
 
 
+def archive_announcement(ann: dict):
+    import os, requests
+    ann_id = ann["ann_id"]
+    base_dir = "ann_archive"
+    ann_dir = os.path.join(base_dir, str(ann_id))
+    os.makedirs(ann_dir, exist_ok=True)
+    # Save zh-cn content
+    with open(os.path.join(ann_dir, "zh-cn.txt"), "w", encoding="utf-8") as f:
+        f.write(ann["content"])
+    target_languages = ["en-us", "zh-tw", "ja", "ko", "es", "fr", "ru", "th", "vi", "de", "id", "pt", "tr", "it"]
+    for lang in target_languages:
+        url = "https://sg-hk4e-api-static.hoyoverse.com/common/hk4e_global/announcement/api/getAnnContent?"
+        params = {
+            "game": "hk4e",
+            "game_biz": "hk4e_global",
+            "region": "os_asia",
+            "bundle_id": "hk4e_global",
+            "channel_id": "1",
+            "level": "55",
+            "platform": "pc",
+            "lang": lang,
+        }
+        for k, v in params.items():
+            url += f"{k}={v}&"
+        url += "uid=100000000"
+        try:
+            ann_list = requests.get(url).json().get("data", {}).get("list", [])
+            matched = [a for a in ann_list if a["ann_id"] == ann_id]
+            if matched:
+                with open(os.path.join(ann_dir, f"{lang}.txt"), "w", encoding="utf-8") as f:
+                    f.write(matched[0]["content"])
+        except Exception:
+            pass
+
+
 def refresh_all_banner_data():
     return_result = {}
     url = "https://sg-hk4e-api-static.hoyoverse.com/common/hk4e_global/announcement/api/getAnnContent?"
@@ -347,10 +382,16 @@ def refresh_all_banner_data():
     print(f"{Fore.YELLOW}[HTTP] zh-cn URL: {url}\n")
     banner_data = requests.get(url).json().get("data").get("list")
     for ann in banner_data:
+        # Archive each announcement's raw content
+        archive_announcement(ann)
         this_banner_data = announcement_to_banner_meta(ann, banner_data)
         if this_banner_data is None:
             continue
         else:
+            # Append banner announcement id to banner_ann_list.txt
+            banner_list_file = os.path.join("ann_archive", "banner_ann_list.txt")
+            with open(banner_list_file, "a", encoding="utf-8") as f:
+                f.write(str(ann["ann_id"]) + "\n")
             this_banner_dict = {}
             this_banner_ann_id = this_banner_data[0].ann_id
 
