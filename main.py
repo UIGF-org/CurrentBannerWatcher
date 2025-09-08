@@ -190,13 +190,13 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
         if uigf_pool_type != 500:
             time_pattern = (r"(?:〓祈愿介绍〓祈愿时间概率提升(?:角色|武器)（5星）概率提升(?:角色|武器)（4星）"
                             r"(<t class=\"(?:(t_lc)|(t_gl))\">)?)"
-                            r"(?P<start>((\d.\d|月之[一二三四五六七八九])版本更新后)|(20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?))"
+                            r"(?P<start>((\d.\d|「月之[一二三四五六七八九]」)版本更新后)|(20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?))"
                             r"(?:(</t>)?( )?~( )?<t class=\"(?:(t_lc)|(t_gl))\">)"
                             r"(?P<end>20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?)")
         else:
             time_pattern = (r"(?:〓祈愿介绍〓祈愿时间可定轨5星角色可定轨5星武器"
                             r"(<t class=\"(?:(t_lc)|(t_gl))\">)?)"
-                            r"(?P<start>((\d.\d|月之[一二三四五六七八九])版本更新后)|(20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?))"
+                            r"(?P<start>((\d.\d|「月之[一二三四五六七八九]」)版本更新后)|(20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?))"
                             r"(?:(</t>)?( )?~( )?<t class=\"(?:(t_lc)|(t_gl))\">)"
                             r"(?P<end>20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?)")
         try:
@@ -210,7 +210,7 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
         if "更新后" in start_time:
             order = 1
             # find accurate time in update log
-            version_match = re.search(r"^(\d\.\d|月之[一二三四五六七八九])", start_time)
+            version_match = re.search(r"^(\d\.\d|「月之[一二三四五六七八九]」)", start_time)
             if version_match:
                 version = version_match.group(0)
                 # Convert Chinese version format if needed
@@ -266,7 +266,7 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
             order = 2
             for b in all_announcements:
                 if "版本更新说明" in b["subtitle"]:
-                    version_match = re.search(r"^(\d+\.\d+|月之[一二三四五六七八九])", b["subtitle"])
+                    version_match = re.search(r"^(\d+\.\d+|「月之[一二三四五六七八九]」)", b["subtitle"])
                     if version_match:
                         version_text = version_match.group(0)
                         # Convert Chinese version format if needed
