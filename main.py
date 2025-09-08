@@ -9,6 +9,26 @@ from BannerMeta import BannerMeta
 RUN_MODE = os.getenv("run_mode", "production")
 DEBUG = True if RUN_MODE == "debug" else False
 
+CHINESE_VERSION_MAP = {
+    "月之一": "6.0",
+    "月之二": "6.1",
+    "月之三": "6.2",
+    "月之四": "6.3",
+    "月之五": "6.4",
+    "月之六": "6.5",
+    "月之七": "6.6",
+    "月之八": "6.7",
+    "月之九": "6.8"
+}
+
+
+def convert_chinese_version(version_text):
+    """Convert Chinese version format to numeric version"""
+    for chinese_ver, numeric_ver in CHINESE_VERSION_MAP.items():
+        if chinese_ver in version_text:
+            return numeric_ver
+    return version_text  # Return original if no match found
+
 
 def get_item_id_by_name(name: str) -> int:
     url = "https://api.uigf.org/translate/"
@@ -170,13 +190,13 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
         if uigf_pool_type != 500:
             time_pattern = (r"(?:〓祈愿介绍〓祈愿时间概率提升(?:角色|武器)（5星）概率提升(?:角色|武器)（4星）"
                             r"(<t class=\"(?:(t_lc)|(t_gl))\">)?)"
-                            r"(?P<start>(\d.\d版本更新后)|(20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?))"
+                            r"(?P<start>((\d.\d|月之[一二三四五六七八九])版本更新后)|(20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?))"
                             r"(?:(</t>)?( )?~( )?<t class=\"(?:(t_lc)|(t_gl))\">)"
                             r"(?P<end>20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?)")
         else:
             time_pattern = (r"(?:〓祈愿介绍〓祈愿时间可定轨5星角色可定轨5星武器"
                             r"(<t class=\"(?:(t_lc)|(t_gl))\">)?)"
-                            r"(?P<start>(\d.\d版本更新后)|(20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?))"
+                            r"(?P<start>((\d.\d|月之[一二三四五六七八九])版本更新后)|(20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?))"
                             r"(?:(</t>)?( )?~( )?<t class=\"(?:(t_lc)|(t_gl))\">)"
                             r"(?P<end>20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?)")
         try:
@@ -190,25 +210,45 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
         if "更新后" in start_time:
             order = 1
             # find accurate time in update log
-            version = re.search(r"^(\d.\d)", start_time).group(0)
-            if DEBUG:
-                print(f"Found version_number by keyword (更新后): {version}")
+            version_match = re.search(r"^(\d\.\d|月之[一二三四五六七八九])", start_time)
+            if version_match:
+                version = version_match.group(0)
+                # Convert Chinese version format if needed
+                if "月之" in version:
+                    version = convert_chinese_version(version)
+                if DEBUG:
+                    print(f"Found version_number: {version}")
+            else:
+                raise ValueError(f"Unknown version format in start_time: {start_time}")
+
             try:
-                # 更新说明
-                patch_note = BeautifulSoup([b for b in all_announcements if b["subtitle"] == version +
-                                            "版本更新说明"][0]["content"], "html.parser").text
-                patch_time_pattern = (r"(?:〓更新时间〓<t class=\"t_(gl|lc)\"( contenteditable=\"false\")?>)"
-                                      r"(?P<start>20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?)"
-                                      r"(?:</t>开始)")
+                # 更新说明 - Handle both numeric and Chinese version formats
+                patch_notes = [b for b in all_announcements if
+                              (b["subtitle"] == version + "版本更新说明") or
+                              (any(chinese + "版本更新说明" in b["subtitle"] for chinese in CHINESE_VERSION_MAP.keys()))]
+
+                if patch_notes:
+                    patch_note = BeautifulSoup(patch_notes[0]["content"], "html.parser").text
+                    patch_time_pattern = (r"(?:〓更新时间〓<t class=\"t_(gl|lc)\"( contenteditable=\"false\")?>)"
+                                          r"(?P<start>20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?)"
+                                          r"(?:</t>开始)")
+                else:
+                    raise IndexError("No patch notes found")
             except IndexError:
                 try:
-                    # 更新预告
-                    patch_note = BeautifulSoup([b for b in all_announcements if b["subtitle"] == version +
-                                                "版本更新维护预告"][0]["content"], "html.parser").text
-                    print(f"Patch note: {patch_note}")
-                    patch_time_pattern = (r"(?:预计将于<t class=\"t_(gl|lc)\"( contenteditable=\"false\")>)"
-                                          r"(?P<start>20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?)"
-                                          r"(?:</t>进行版本更新维护)")
+                    # 更新预告 - Handle both numeric and Chinese version formats
+                    patch_notes = [b for b in all_announcements if
+                                  (b["subtitle"] == version + "版本更新维护预告") or
+                                  (any(chinese + "版本更新维护预告" in b["subtitle"] for chinese in CHINESE_VERSION_MAP.keys()))]
+
+                    if patch_notes:
+                        patch_note = BeautifulSoup(patch_notes[0]["content"], "html.parser").text
+                        print(f"Patch note: {patch_note}")
+                        patch_time_pattern = (r"(?:预计将于<t class=\"t_(gl|lc)\"( contenteditable=\"false\")>)"
+                                              r"(?P<start>20\d{2}/\d{2}/\d{2} \d{2}:\d{2}(:\d{2})?)"
+                                              r"(?:</t>进行版本更新维护)")
+                    else:
+                        raise IndexError("No maintenance announcement found")
                 except IndexError:
                     if DEBUG:
                         for b in all_announcements:
@@ -226,7 +266,14 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
             order = 2
             for b in all_announcements:
                 if "版本更新说明" in b["subtitle"]:
-                    version = re.search(r"^(\d+\.\d+)", b["subtitle"]).group(0)
+                    version_match = re.search(r"^(\d+\.\d+|月之[一二三四五六七八九])", b["subtitle"])
+                    if version_match:
+                        version_text = version_match.group(0)
+                        # Convert Chinese version format if needed
+                        if "月之" in version_text:
+                            version = convert_chinese_version(version_text)
+                        else:
+                            version = version_text
                     break
             if version == "99.99":
                 raise ValueError("No update log found")
