@@ -10,20 +10,22 @@ RUN_MODE = os.getenv("run_mode", "production")
 DEBUG = True if RUN_MODE == "debug" else False
 
 CHINESE_VERSION_MAP = {
-    "月之一": "6.0",
-    "月之二": "6.1",
-    "月之三": "6.2",
-    "月之四": "6.3",
-    "月之五": "6.4",
-    "月之六": "6.5",
-    "月之七": "6.6",
-    "月之八": "6.7",
-    "月之九": "6.8"
+    "「月之一」": "6.0",
+    "「月之二」": "6.1",
+    "「月之三」": "6.2",
+    "「月之四」": "6.3",
+    "「月之五」": "6.4",
+    "「月之六」": "6.5",
+    "「月之七」": "6.6",
+    "「月之八」": "6.7",
+    "「月之九」": "6.8"
 }
 
 
 def convert_chinese_version(version_text):
     """Convert Chinese version format to numeric version"""
+    if DEBUG:
+        print(f"Converting Chinese version: {version_text}")
     for chinese_ver, numeric_ver in CHINESE_VERSION_MAP.items():
         if chinese_ver in version_text:
             return numeric_ver
@@ -209,15 +211,12 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
             raise ValueError(f"Unknown time format\nAnnouncement Content: {content_text}\nPattern: {time_pattern}")
         if "更新后" in start_time:
             order = 1
+            if DEBUG:
+                print("Start time is relative, need to find accurate time in update log")
             # find accurate time in update log
             version_match = re.search(r"^(\d\.\d|「月之[一二三四五六七八九]」)", start_time)
             if version_match:
                 version = version_match.group(0)
-                # Convert Chinese version format if needed
-                if "月之" in version:
-                    version = convert_chinese_version(version)
-                if DEBUG:
-                    print(f"Found version_number: {version}")
             else:
                 raise ValueError(f"Unknown version format in start_time: {start_time}")
 
@@ -295,13 +294,13 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
         up_orange_list=orange_id_list,
         up_purple_list=purple_id_list
     )
-    print(banner_meta.json())
+    print(banner_meta.model_dump_json())
     banner_meta_list.append(banner_meta)
 
     target_language = ["en-us", "zh-tw", "ja", "ko", "es", "fr",
                        "ru", "th", "vi", "de", "id", "pt", "tr", "it"]
     for lang in target_language:
-        this_meta = banner_meta.copy()
+        this_meta = banner_meta.model_copy()
         this_meta.lang = lang
         url = "https://sg-hk4e-api-static.hoyoverse.com/common/hk4e_global/announcement/api/getAnnContent?"
         params = {
@@ -323,7 +322,7 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
         this_meta.name = banner_name
         banner_image = matched_ann[0].get("banner", "")
         this_meta.banner_image_url = banner_image
-        print(this_meta.json())
+        print(this_meta.model_dump_json())
         banner_meta_list.append(this_meta)
 
     print("-" * 20)
