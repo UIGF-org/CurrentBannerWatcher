@@ -3,6 +3,69 @@
     [
       {
         "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "炉边烬影",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/f1799709dd6e2c1d5807382d0bb46246_8044642901403314243_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/f1799709dd6e2c1d5807382d0bb46246_8044642901403314243_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "陵薮市朝",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/146ff4ba52605431d0086cb5d18c1440_4528556376432618835_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/146ff4ba52605431d0086cb5d18c1440_4528556376432618835_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "神铸赋形",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/54cde6bd8912354aa5b358d42a69dd79_6997260099594855541_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/54cde6bd8912354aa5b358d42a69dd79_6997260099594855541_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000122
         ],
         "UpPurpleList": [
@@ -65,6 +128,69 @@
     ]
   ],
   "en-us": [
+    [
+      {
+        "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "The Hearth's Ashen Shadow",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/37866d4498adbd0be6e1e1daa7e6e2f7_6308815417790241185_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/37866d4498adbd0be6e1e1daa7e6e2f7_6308815417790241185_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Gentry of Hermitage",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/9c412491f081d722010764052bfb3bcb_7753522246160513610_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/9c412491f081d722010764052bfb3bcb_7753522246160513610_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "Epitome Invocation",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/f9d7b47fb621edbafd43ba1bcd2582c6_8054679004517971646_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/f9d7b47fb621edbafd43ba1bcd2582c6_8054679004517971646_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -133,6 +259,69 @@
     [
       {
         "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "爐邊燼影",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/0b7ca9d8cbb471236a7825b848a5568d_3300247922502755471_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/0b7ca9d8cbb471236a7825b848a5568d_3300247922502755471_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "陵藪市朝",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/34d918998aca62dd76cd3a5c2cd76104_4879140233987294620_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/34d918998aca62dd76cd3a5c2cd76104_4879140233987294620_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "神鑄賦形",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/a502d298a2afe48b59db374a4026ea21_7133317559972299973_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/a502d298a2afe48b59db374a4026ea21_7133317559972299973_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000122
         ],
         "UpPurpleList": [
@@ -195,6 +384,69 @@
     ]
   ],
   "ja": [
+    [
+      {
+        "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "炉傍の残影",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/f8bc5bb909f58b274bc5dd053cdb6a4d_3136477447800001226_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/f8bc5bb909f58b274bc5dd053cdb6a4d_3136477447800001226_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "大隠朝市",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/5b3e14a786bf8f4eef7e27ecae5faac1_188276461717519720_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/5b3e14a786bf8f4eef7e27ecae5faac1_188276461717519720_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "神鋳賦形",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/8f67abcaceb0bcb0aed71cc484acfd74_1194546922009850139_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/8f67abcaceb0bcb0aed71cc484acfd74_1194546922009850139_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -263,6 +515,69 @@
     [
       {
         "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "난롯가의 잿빛 그림자",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/0f6493f5810900abde286e7d867b940c_7646699816990419354_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/0f6493f5810900abde286e7d867b940c_7646699816990419354_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "산야의 시조",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/5f0bf5e02faf21f5a402e85936f90f57_1590415898159741523_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/5f0bf5e02faf21f5a402e85936f90f57_1590415898159741523_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "신의 주조",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/9fcfb02430f719e58cba5f3e0f9c5daf_713517634343951184_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/9fcfb02430f719e58cba5f3e0f9c5daf_713517634343951184_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000122
         ],
         "UpPurpleList": [
@@ -325,6 +640,69 @@
     ]
   ],
   "es": [
+    [
+      {
+        "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Cenizas de la hoguera",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/333205626c59502ee3ac658432d87aaf_996539770320646986_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/333205626c59502ee3ac658432d87aaf_996539770320646986_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Soledad de la nobleza",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/eeab1587def9f5817590b2108eb2e882_2956601924835398121_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/eeab1587def9f5817590b2108eb2e882_2956601924835398121_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "Encarnación divina",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/ffa85593c7cad534dba91fb79d454f87_3866925769812539465_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/ffa85593c7cad534dba91fb79d454f87_3866925769812539465_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -393,6 +771,69 @@
     [
       {
         "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "L'ombre cendrée de l'âtre",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/098010636ad1960fab26fe9a72c97754_2825944189161004095_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/098010636ad1960fab26fe9a72c97754_2825944189161004095_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Monts et marchés",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/ad12b17641a85d9afc1c311c4e2510ff_750857621412360642_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/ad12b17641a85d9afc1c311c4e2510ff_750857621412360642_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "Incarnation divine",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/633b9d41040d9524abb2473765cebcaf_2878708813657229732_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/633b9d41040d9524abb2473765cebcaf_2878708813657229732_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000122
         ],
         "UpPurpleList": [
@@ -455,6 +896,69 @@
     ]
   ],
   "ru": [
+    [
+      {
+        "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Пепельная тень очага",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/35a2776ba0a02f80ec3405a99ece7e91_3281848932909900087_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/35a2776ba0a02f80ec3405a99ece7e91_3281848932909900087_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Горы и рынки",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/20081e92139c2f5f423ef2d8e789ecfd_6817218599928234296_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/20081e92139c2f5f423ef2d8e789ecfd_6817218599928234296_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "Воплощение божества",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/cac29d55845cbff20a0dfb122c83c3e1_1021176361299064812_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/cac29d55845cbff20a0dfb122c83c3e1_1021176361299064812_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -523,6 +1027,69 @@
     [
       {
         "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "เงามายาเถ้าธุลี",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/ddbac64987d1c52e71da52df97880723_8334769131737902582_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/ddbac64987d1c52e71da52df97880723_8334769131737902582_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "ขุนเขาและเมืองใหญ่",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/fffafd1efe8a5196dc6400613ef1d0f5_1610085649935282446_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/fffafd1efe8a5196dc6400613ef1d0f5_1610085649935282446_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "สรรค์สร้างเซียน",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/bd59216789f0704582edaf8c7f83b2b1_813322110656691462_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/bd59216789f0704582edaf8c7f83b2b1_813322110656691462_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000122
         ],
         "UpPurpleList": [
@@ -585,6 +1152,69 @@
     ]
   ],
   "vi": [
+    [
+      {
+        "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Tàn Ảnh Bên Lò",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/2a0747aaa76040e01a982471a24e3e1b_2909091668052179112_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/2a0747aaa76040e01a982471a24e3e1b_2909091668052179112_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Đồng Cỏ Thị Thành",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/21f258e2da7d78b41f4b8687c243acb2_3977402230945945538_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/21f258e2da7d78b41f4b8687c243acb2_3977402230945945538_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "Thân Hình Thần Đúc",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/3de990c12a2047de68da1682594daccb_3867425848510328712_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/3de990c12a2047de68da1682594daccb_3867425848510328712_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -653,6 +1283,69 @@
     [
       {
         "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Schattenasche am Kamin",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/ea81012b0025efc482ad563e4c063ca1_7836764059416036783_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/ea81012b0025efc482ad563e4c063ca1_7836764059416036783_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Abgeschiedener Adel",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/e6b07838a9d77f0f12fd99233039f66e_3043876468142494760_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/e6b07838a9d77f0f12fd99233039f66e_3043876468142494760_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "Göttliches Werk",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/010f002b80b1ebda61ecbc19f1294fe7_3727968747813803845_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/010f002b80b1ebda61ecbc19f1294fe7_3727968747813803845_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000122
         ],
         "UpPurpleList": [
@@ -715,6 +1408,69 @@
     ]
   ],
   "id": [
+    [
+      {
+        "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Bayangan Gelora Perapian",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/9145dc6fc6287be2609c3c3ba6fc6228_3231923824842284708_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/9145dc6fc6287be2609c3c3ba6fc6228_3231923824842284708_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Bangsawan dan Pertapa",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/d02879639cf8bba859939e92750ed49b_27993509658229118_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/d02879639cf8bba859939e92750ed49b_27993509658229118_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "Epitome Invocation",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/9a43bd253ee95750a4660add769fd912_7254717226575748556_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/9a43bd253ee95750a4660add769fd912_7254717226575748556_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
@@ -783,6 +1539,69 @@
     [
       {
         "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Cinzas da Fogueira",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/260ea4f3dd833327be84e1a58bb5af7d_2849039081361056321_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/260ea4f3dd833327be84e1a58bb5af7d_2849039081361056321_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Aristocracia Ermida",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/73b5530e0e73d1b2f847444cb79423f3_4951746397633568614_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/73b5530e0e73d1b2f847444cb79423f3_4951746397633568614_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "Encarnação Divina",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/3d4ac7d143205edbaa4e68044b28993f_3656030006041970567_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/3d4ac7d143205edbaa4e68044b28993f_3656030006041970567_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000122
         ],
         "UpPurpleList": [
@@ -848,6 +1667,69 @@
     [
       {
         "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Ocağın Külden Gölgesi",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/0aa6f419dfd9baaf45eaf806671d4868_7664056472486482400_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/0aa6f419dfd9baaf45eaf806671d4868_7664056472486482400_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Asilin Yalnızlığı Etkinlik Dileği",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/b9d814486f80883e46844e17591e9fe2_5016796547869306981_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/b9d814486f80883e46844e17591e9fe2_5016796547869306981_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "İlahi Çağrı Etkinlik Dileği",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/bcfe2c7fe9fdfd14f1e6da29b4b5fb4d_928163848612425757_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/bcfe2c7fe9fdfd14f1e6da29b4b5fb4d_928163848612425757_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
           10000122
         ],
         "UpPurpleList": [
@@ -910,6 +1792,69 @@
     ]
   ],
   "it": [
+    [
+      {
+        "UpOrangeList": [
+          10000096
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Ombra cinerea del Focolare",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/a007302bba15404931fa9c8a448ece40_8742303794396285479_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/a007302bba15404931fa9c8a448ece40_8742303794396285479_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 301
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          10000030
+        ],
+        "UpPurpleList": [
+          10000108,
+          10000045,
+          10000064
+        ],
+        "Name": "Aristocrazia eremita",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/d7e60ddcaa77359db2513fb372359f99_8661409795607189651_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/d7e60ddcaa77359db2513fb372359f99_8661409795607189651_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 400
+      }
+    ],
+    [
+      {
+        "UpOrangeList": [
+          13512,
+          13504
+        ],
+        "UpPurpleList": [
+          11427,
+          12427,
+          15427,
+          13401,
+          14403
+        ],
+        "Name": "Incarnazione divina",
+        "Version": "6.1",
+        "Order": 2,
+        "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/0e062f0838f276528a8daf195481153c_8175189358149078839_transformed.jpg",
+        "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/0e062f0838f276528a8daf195481153c_8175189358149078839_transformed.jpg",
+        "From": "2025-11-11T18:00",
+        "To": "2025-12-02T14:59",
+        "Type": 302
+      }
+    ],
     [
       {
         "UpOrangeList": [
