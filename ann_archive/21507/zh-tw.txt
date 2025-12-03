@@ -1,0 +1,1 @@
+<p style="white-space: pre-wrap;">親愛的旅行者：</p><p style="white-space: pre-wrap;">為了給旅行者帶來更好的遊戲體驗，開發團隊會根據各位旅行者的意見回饋，對遊戲不斷地進行最佳化調整，修復已發現的各類問題。</p><p style="white-space: pre-wrap; min-height: 1.5em;"></p><p style="white-space: pre-wrap;">〓已知問題〓</p><p style="white-space: pre-wrap;">目前，女性「奇域人偶」的裝扮「髮型 - 燭影巫師·南瓜糖」在佩戴頭飾時，若在部件調整設定中選擇了「隱藏後髮」，其顯示的髮髻顏色會出現異常。該問題將在後續版本中修復。</p>
