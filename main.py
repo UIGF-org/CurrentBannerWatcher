@@ -222,7 +222,11 @@ def announcement_to_banner_meta(chs_ann: dict, all_announcements: list) -> list[
                 print(f"{Fore.LIGHTRED_EX}[Time Parsing] Start time is relative, need to find accurate time in update log")
             version_match = re.search(r"^(\d\.\d|「月之[一二三四五六七八九]」)", start_time)
             if version_match:
-                version = version_match.group(0)
+                version_text = version_match.group(0)
+                if "月之" in version_text:
+                    version = convert_chinese_version(version_text)
+                else:
+                    version = version_text
             else:
                 raise ValueError(f"Unknown version format in start_time: {start_time}")
 
